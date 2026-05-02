@@ -1,0 +1,7 @@
+rock vs rock -> Draw
+rock vs rock -> Draw
+rock vs rock -> Draw
+rock vs rock -> Draw
+paper vs rock -> cl won the round
+rock vs paper -> cl won the round
+rock vs paper -> cl won the round
